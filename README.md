@@ -1,0 +1,1 @@
+this is our front end of blood donation website in which we use the hospital data to get a the emergence blood as soon as we do and we are also working on the amblunce tracking system when the emergency case it help to contact the traffic signals to clear the path of hospital before reaching at the signals 
